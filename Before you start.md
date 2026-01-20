@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="./react-intro.png" width="900" alt="React banner" />
-</p>
+<img src = "https://github.com/ghostfriend505/Working-with-React/blob/main/React%20Intro.png">
 
 
 # Before You Start React
