@@ -19,7 +19,7 @@ Styling React apps with CSS
 
 Building small real-world projects
 
-  < a href="https://github.com/ghostfriend505/Working-with-React/blob/main/Before%20you%20start.md"> Getting Started </a>
+  < a href="/ghostfriend505/Working-with-React/Getting Started with React JS.md"> Getting Started </a>
 
 🛠️ Tech Stack
 
