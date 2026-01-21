@@ -245,8 +245,114 @@ installing them gobally. </strong>
 
   🔹 sets up everything automatically
 
-  After that: In same terminal type 
+  <h3> React Project Files Overview </h3>
 
+  <h4>node_modules</h4> 
+  
+  🔹 Contains all libraries used by React
+
+  🔹 Created automatically
+
+  🔹 Do not touch
+
+  🔹 Don't uplode to GitHub
+
+  <h4>public/</h4>
+
+  index.html
+
+  🔹 Main HTML file
+
+  🔹 React app loads here
+
+  favicon.ico
+
+  🔹 Website icon (shown in browser tab)
+
+  logo192.png & logo512.png
+
+  🔹 App icons for PWA
+
+  manifest.json
+
+  🔹 App information (name, icons, theme)
+
+  robots.txt
+
+  🔹 Instructions for search engines
+
+  <h4> src/ </h4>
+
+  index.js
+
+  🔹 Entry point of React app
+
+  🔹 Connects React to HTML
+
+  App.js
+
+  🔹 Main React component
+
+  🔹 All components start here
+
+  App.css
+
+  🔹 Styles for App.js
+
+  index.css
+
+  🔹 Global styles for app
+
+  App.test.js
+
+  🔹 Used for testing (optional)
+
+  logo.svg
+
+  🔹 React logo (can delete)
+
+  serviceWorker.js
+
+  🔹 Helps app work offline (optional)
+
+  setupTests.js
+
+  🔹 Testing setup file
+  
+ <h4>.gitignore </h4>
+
+  🔹 Tells Git what NOT to upload (node_modules, build, etc.)
+  
+  <h4>package.json </h4>
+
+  🔹 Project information
+
+  🔹 Dependencies list
+
+  🔹 Scripts like npm start
+  
+  <h4> README.md </h4>
+
+  🔹 Project description
+
+  🔹 Instructions
+
+  🔹 Documentation
+  
+  ⭐ In one line
+
+  👉 src = your code
+  
+  👉 public = browser files
+  
+  👉 package.json = project brain
+
+  In all of these files don't get confused or scared this is just a easy setup you just need 
+  index.js and index.html file to work with your code you can delete everything else inside 
+  public/ and src/ folder.
+
+  After that: In same terminal type 
+  
       cd first-app
       npm start
 
@@ -257,10 +363,38 @@ installing them gobally. </strong>
 Congratulations, You have successfully Made your First React App
 
       
+<h1> Exercise </h1>
 
+1. What is the command to make React app ?
+   
+2. A class is a type of function, but instead of using the keyword function to initiate it,
+   which keyword do we use?
+   
+3. What is the default port where webpack server runs?
 
+4. What is the use of "webpack" command in React.js?
 
+5. In which of the following condition, the React.js Lifecycle method static
+   getDerivedSateFromProps(props, state) is called?
 
+6. What is Callback in JavaScript?
+
+<h1> Solutions </h1>
+
+1.
+
+      create-react-app name-app
+
+2. Class
+
+3. The default port for webpack-server is 8080.
+
+4. The "webpack" command is a module bundler
+
+5.   In React.js, the static getDerivedSateFromProps(props, state) is called in both cases
+     when a component is created and when a component is updated.
+
+6.  The callback is an asynchronous equivalent for a function
 
 
 
