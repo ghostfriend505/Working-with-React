@@ -21,11 +21,12 @@ Building small real-world projects
 
  ## 📘 Lessons
 
-| No | Topic |
-|----|------|
-| 01 | [Before You Start](./01-Before-you-start.md) |
-| 02 | [Introduction to React](./02-Introduction-to-React.md) |
-| 03 | [Getting Started with React](./03-Getting-started-with-react.md) |
+| No   |         Topic |
+|----  |         ------|
+| 01   |    [Before You Start](./01-Before-you-start.md) |
+| 02   |    [Introduction to React](./02-Introduction-to-React.md) |
+| 02.5 |    [Introduction to Vite](./02.5-vite(@latest).md)
+| 03   |    [Getting Started with React](./03-Getting-started-with-react.md) |
 
 
 
