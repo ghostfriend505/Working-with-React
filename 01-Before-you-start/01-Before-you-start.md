@@ -9,7 +9,6 @@
 
 <h4>This page will tell you everything you should know before starting React.</h4>
 
-
 <h1> 1. HTML - The Structure of a Web Page </h1>
 
   <h3> What is HTML?</h3>
@@ -17,14 +16,16 @@
    HTML is used to create the structure of a web page
    Think of it as the skeleton of your website.
 
-  React components return HTML-like code, so if you don't know HTML, React will feel confusing to you.
+React components return HTML-like code, so if you don't know HTML, React will feel confusing to you.
 
-  <h4> Example </h4>
-  
-    <h1>Hello World</h1>
-    <p>This is a paragraph</p>
-    <button>Click me</button>
+<h4> Example </h4>
 
+``` bash
+<h1>Hello World</h1>
+<p>This is a paragraph</p>
+<button>Click me</button>
+
+```
   This Creates:
   
   🔹 a heading
@@ -68,12 +69,13 @@ ___________________________________________________________________________
 
   <h4>Example</h4>
 
+``` bash
       button {
       background: blue;
       color: white;
       padding: 10px;
       }
-
+```
   This styles a button.
 
   In React, you'll use:
@@ -113,9 +115,10 @@ React is a JavaScript library, so if JS is weak, React will feel hard.
 
 Used to store data:
 
+``` bash
     let name = "Ujjwal"
     const age = 22;
-
+```
 Their is one more type of Variable called (var) but we won't use that anymore because it causes a lot of issues
 
 
@@ -123,10 +126,11 @@ Their is one more type of Variable called (var) but we won't use that anymore be
 
 Functions do work for you:
 
-    function greet() {
-      return "Hello"
-    }
-
+```bash
+function greet() {
+  return "Hello"
+}
+```
 React components are functions.
 
 <h3>Arrays</h3>
@@ -142,11 +146,12 @@ In React, you use array to show lists.
 
 Used to store related data:
 
+``` bash
     const user = {
       name : "Ujjwal"
       age: 22
     }
-    
+```    
 React uses objects for props, state, data.
 
 
