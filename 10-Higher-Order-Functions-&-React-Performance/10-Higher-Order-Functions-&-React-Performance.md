@@ -165,6 +165,8 @@ Q2. Explain how React diffing algorithm improves performance.
 
 Q3. Why is performance optimization important in large React apps?
 
+Q4. Difference Between React and ReactDOM
+
 ### Part 3. Short Answer Questions
 
 Q1. What is diffing?
@@ -232,6 +234,22 @@ A2. Reconciliation is the process of applying differences found by the
 A3. Large apps have many components and frequent updates. Without optimization,
     unnecessary re-renders can slow the app, increase memory usage, and reduce user 
     experience.
+
+A4.
+
+    | Feature                   | React                    | ReactDOM             |
+    | ------------------------- | ------------------------ | -------------------- |
+    | Purpose                   | Build UI components      | Render UI to browser |
+    | Works with                | Components, state, props | Real DOM             |
+    | Platform                  | Platform-independent     | Browser-specific     |
+    | Package                   | `react`                  | `react-dom`          |
+    | Main role                 | Logic & UI structure     | Display UI           |
+    | Can work without browser? | Yes (React Native)       | No                   |
+
+Easy to remeber 
+
+- React = Chef (All the COding)
+- ReactDOM = Waiter (Serves that code to client)
 
 ### Part 3.
 
