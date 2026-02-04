@@ -35,7 +35,8 @@ Building small real-world projects
 | 08.1 | [Advance Hooks & Performance Optimization](./08-React-Hooks-Folder-Structure/08.1-Advance-Hooks-&-Performance-Optimization.md) |
 | 09 | [Component Communication & Optimization](./09-Component-Communication-&-Optimization/09-Component-Communication-&-Optimization.md) |
 | 10 | [Higher Order Functions & React Performance](./10-Higher-Order-Functions-&-React-Performance/10-Higher-Order-Functions-&-React-Performance.md) |
-
+| 11 | [React Router](./11-React-Router/11-React-Router.md) |
+| 12 | [Fetching Data Axios & APIs](./12-Fetching-Data-Axios-&-APIs/12-Fetching-Data-Axios-&-APIs.md)
 
 🛠️ Tech Stack
 
