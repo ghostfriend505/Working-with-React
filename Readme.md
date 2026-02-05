@@ -37,6 +37,13 @@ Building small real-world projects
 | 10 | [Higher Order Functions & React Performance](./10-Higher-Order-Functions-&-React-Performance/10-Higher-Order-Functions-&-React-Performance.md) |
 | 11 | [React Router](./11-React-Router/11-React-Router.md) |
 | 12 | [Fetching Data Axios & APIs](./12-Fetching-Data-Axios-&-APIs/12-Fetching-Data-Axios-&-APIs.md)
+| 13 | [Protected Routes & Authentication](./13-Protected-Routes-&-Authentication/13-Protected-Routes-&-Authentication.md) |
+| 14 | [Context API & Global State Management](./14-Context-API-Global-Management/14-Context-API-Global-Management.md) |
+| 15 | [JWT Authentication & Token Handling](./15-JWT-Auth-Token-Handling/15-JWT-Auth-Token-Handling.md) |
+| 16 | [Access & Refresh Tokens](./16-Access-&-Refresh-Tokens/16-Access-&-Refresh-Tokens.md) |
+| 17 | [Deployment & Production](./17-Deployment-&-Production/17-Deplotment-&-Production.md) |
+| 18 | [Final Project](./18-Final-Project/18-Final-Project.md) |
+
 
 🛠️ Tech Stack
 
